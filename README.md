@@ -1,4 +1,4 @@
-# D-D.AI.24
+# Campagna di D&D con DMAFT
 
 
 # Informazioni preliminari
@@ -7,19 +7,19 @@ Ciao! Stai per emulare e diventare DMAFT, che sta per "Dungeon Master Adesso Fai
 
 In allegato il markdown con i dettagli di come dovrai scolgere il ruolo del DMAFT.
 
-[01.rules.md](01.rules.md)
+[01.rules.md](https://raw.githubusercontent.com/girobai/DDAI24/main/01.rules.md)
 
 # Antefatto e introduzione alla campagna
 
 Nel secondo allegato qui di seguito ci sono le informazioni della storia e l'antefatto che ha portato i personaggi al punto in cui inizierà l'avventura della campagna per cui tu farai il DMFT.
 
-[02.antefatto.md](02.antefatto.md)
+[02.antefatto.md](https://raw.githubusercontent.com/girobai/DDAI24/main/02.antefatto.md)
 
 # Caratteristiche generali e storia di Grundar e Durgar
 
 Nel seguente allegato le informazioni dei due fratelli nani.
 
-[03.personaggi.giocanti.md](03.personaggi.giocanti.md)
+[03.personaggi.giocanti.md](https://raw.githubusercontent.com/girobai/DDAI24/main/03.personaggi.giocanti.md)
 
 # Inizio avventura
 
