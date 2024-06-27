@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⛺︎A01.1 - D&D.e5.24/06.Arannis.Mago.Elfo.md",
+                "file": "⛺︎A01.1 - D&D.e5.24/01.Tom.Guerriero.Nano.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "⛺︎A01.1 - D&D.e5.24/06.Arannis.Mago.Elfo.md",
+            "file": "⛺︎A01.1 - D&D.e5.24/01.Tom.Guerriero.Nano.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "⛺︎A01.1 - D&D.e5.24/06.Arannis.Mago.Elfo.md",
+            "file": "⛺︎A01.1 - D&D.e5.24/01.Tom.Guerriero.Nano.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "⛺︎A01.1 - D&D.e5.24/06.Arannis.Mago.Elfo.md"
+            "file": "⛺︎A01.1 - D&D.e5.24/01.Tom.Guerriero.Nano.md"
           }
         }
       }
@@ -133,12 +133,13 @@
   },
   "active": "0a57ddd93bf1efd5",
   "lastOpenFiles": [
-    "⛺︎A01.1 - D&D.e5.24/05.Sera.Chierico.Umano.md",
     "⛺︎A01.1 - D&D.e5.24/06.Arannis.Mago.Elfo.md",
+    "⛺︎A01.1 - D&D.e5.24/05.Sera.Chierico.Umano.md",
     "⛺︎A01.1 - D&D.e5.24/04.Elenion.Ranger.Elfo.md",
     "⛺︎A01.1 - D&D.e5.24/03.Lyra.Guerriero.Umano.md",
     "⛺︎A01.1 - D&D.e5.24/02.Krug.Barbaro.Orco.md",
     "⛺︎A01.1 - D&D.e5.24/01.Tom.Guerriero.Nano.md",
+    "⛺︎B01.1 - D&D.e5.24/01.Giros.Guerriero.Umano.md",
     "Adventures/DRAGON of ICESPIRE PEAK/DRAGON of ICESPIRE PEAK.md",
     "⛺︎B01.1 - D&D.e5.24/assets/Dragon of Icespire Peak parte 1.pdf",
     "Dragon of Icespire Peak.md",
